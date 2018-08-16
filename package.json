@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/cuongpp9/api-deploy-tranningjs.git"
   },
-  "author": "Cory House",
+  "author": "Cuongpp",
   "license": "MIT"
 }
